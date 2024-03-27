@@ -1,6 +1,6 @@
 ### Hi, I'm Byellx!
 
-- 🌱 I’m currently learning Full Stack Development, especially Typescript + Next + NodeJS
+- 🌱 I’m currently learning Frontend Development, Angular and React
 
 <hr>
 
